@@ -1,16 +1,16 @@
-### Hi there 👋
-
+Ello there!  im a pig, (or a middle schooler) that loves coding! especially Scratch and JS
 <!--
-**PigsalotTheFirst/PigsalotTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Right now, im working Aura Scratch JS converter by the Aura Foundation
+Im Learning to JS
+- I WANT TO COLLAB 
+- 🤔 I’m looking for help with Aura its like PhorKPhorus with some additional things (i said i was in middle school right? i cant give money)
+- 💬 Ask me about custom blocks on scratch im a professonal
+- 📫 How to reach me: go onto the "Aura Forums" AKA my Scratch profile https://scratch.mit.edu/users/PigsalotTheFIrst/
+- ⚡ Fun fact: in my free time, I play soccer
 -->
+
+
+LOVE THE PIG -Pigsalot
